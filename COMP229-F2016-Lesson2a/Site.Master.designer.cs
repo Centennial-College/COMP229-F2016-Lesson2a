@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP229_F2016_Lesson2 {
+namespace COMP229_F2016_Lesson2a {
     
     
     public partial class Site {
